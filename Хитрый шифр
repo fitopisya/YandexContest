@@ -4,7 +4,7 @@
 #include <set>
 #include <algorithm>
 
-using namespace std;
+using namespace std;  
 
 int GetPosition(char c){
    if (c >= 'a' && c <= 'z') {
